@@ -10,7 +10,7 @@ class Header extends HTMLElement {
           <div class="container-fluid text-white ">
             <div>
               <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#menuOffcanvas" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation" >
-              <span class="navbar-toggler-icon">
+              <span class="navbar-toggler-icon" >
               </span>
               </button>
               <a class="navbar-brand text-white ms-3" href="#" style="font-weight: 900; font-size:larger;">KJSIT</a>
