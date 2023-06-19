@@ -37,6 +37,8 @@ class Header extends HTMLElement {
                     <hr>
                     <a style="text-decoration: none; color:#9A2929;" href="../module6/mod6.html"><ul>Applications</ul></a>
                     <hr>
+                    <a style="text-decoration: none; color:#9A2929;" href="../playlist/playlist.html"><ul>Playlist</ul></a>
+                    <hr>
                     </ul>
                 </div>
                 </div>
