@@ -41,6 +41,8 @@ class Header extends HTMLElement {
                     <hr>
                     <a style="text-decoration: none; color:#9A2929;" href="../references.html"><ul>References</ul></a>
                     <hr>
+                    <a style="text-decoration: none; color:#9A2929;" href="../aboutus.html"><ul>About Us</ul></a>
+                    <hr>
                     </ul>
                 </div>
                 </div>
