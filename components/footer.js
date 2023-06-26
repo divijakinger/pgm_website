@@ -7,9 +7,9 @@ class Footer extends HTMLElement {
       this.innerHTML = `
             <footer class="text-white w-100 mt-5" style="background-color: #9A2929; ">
             <div class="row p-4 m-0">
-                <div class="col-12 col-md-6">
+                <div class="col-12 col-md-6" >
                     <img src="../images/image 3.png" alt="logo" style="width: 20%;">
-                    <img src="../images/image 4.png" alt="logo" style="width: 50%;">
+                    <img src="../images/image 6.png" alt="logo" style="width: 70%;">
                 </div>
                 <div class="col-12 col-md-6">
                     <h5 style="font-weight: 900;">Department Of Computer Engineering</h5>
