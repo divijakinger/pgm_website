@@ -43,6 +43,8 @@ class Header extends HTMLElement {
                     <hr>
                     <a style="text-decoration: none; color:#9A2929;" href="../aboutus.html"><ul>About Us</ul></a>
                     <hr>
+                    <a style="text-decoration: none; color:#9A2929;" href="https://docs.google.com/forms/d/e/1FAIpQLSe2dd1mGU3UdYxddv1ztQjSIt4crRTp1zj8h6k8ksIS7SNhEw/viewform?vc=0&c=0&w=1&flr=0"><ul>Feedback</ul></a>
+                    <hr>
                     </ul>
                 </div>
                 </div>
